@@ -9,9 +9,9 @@
 ### 掌握技能
 
 ```
-	PHP 		    ★★★★★ 15年 项目架构能力 & 框架定制 & 扩展开发
-	Javascript  ★★★★✰ 16年 vue / react / electron 项目开发能力
-	Golang 		  ★★★✰✰ 5年 项目架构能力 & 框架开发能力 
-	Java 		    ★★★✰✰ 6年 基于 spring-boot 的项目架构 & 基于 sprint-cloud 的项目开发
-	Rust		    ★★✰✰✰ 1年 项目架构能力
+	PHP        ★★★★★ 15年 项目架构能力 & 框架定制 & 扩展开发
+	Javascript ★★★★✰ 16年 vue / react / electron 项目开发能力
+	Golang     ★★★✰✰ 5年 项目架构能力 & 框架开发能力 
+	Java       ★★★✰✰ 6年 基于 spring-boot 的项目架构 & 基于 sprint-cloud 的项目开发
+	Rust       ★★✰✰✰ 1年 项目架构能力
 ```
