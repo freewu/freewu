@@ -15,3 +15,5 @@
 	Java       ★★★✰✰ 6年 基于 spring-boot 的项目架构 & 基于 sprint-cloud 的项目开发
 	Rust       ★★✰✰✰ 1年 项目架构能力
 ```
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/freewu/freewu/output/github-contribution-grid-snake.svg) 
