@@ -1,4 +1,4 @@
-### 个人介绍
+### 个人介绍 
 ```
 	16年项目开发经验,可快速掌握各种语言应用于项目开发中
 	熟悉带领团队进行工作,根据成员不同的能力和兴趣给予不同的任务分配和职业成长
@@ -16,8 +16,9 @@
 	Rust       ★★✰✰✰ 1年 项目架构能力
 ```
 
-### 今年汇总 ✨
+### 项目汇总
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=freewu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=dracula&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freewu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+### Contributions In The last year
  ![github contribution grid snake animation](https://raw.githubusercontent.com/freewu/freewu/output/github-contribution-grid-snake.svg) 
