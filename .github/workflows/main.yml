@@ -5,20 +5,20 @@ name: generate animation SNK
 #     - cron: "0 */24 * * *" # every 24 hours
 #   workflow_dispatch:
 
-# on: [push]
+on: [push]
 
-on:
-#   # run automatically every 24 hours
-#   schedule:
-#     - cron: "0 */24 * * *" 
+# on:
+# #   # run automatically every 24 hours
+# #   schedule:
+# #     - cron: "0 */24 * * *" 
   
-#   # allows to manually run the job at any time
-#   workflow_dispatch:
+# #   # allows to manually run the job at any time
+# #   workflow_dispatch:
   
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
+#   # run on every push on the master branch
+#   push:
+#     branches:
+#     - master
 
 jobs:
   generate:
