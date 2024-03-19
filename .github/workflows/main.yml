@@ -1,11 +1,11 @@
 name: generate animation SNK
 
-# on:
-#   schedule:
-#     - cron: "0 */24 * * *" # every 24 hours
-#   workflow_dispatch:
+on:
+  schedule:
+    - cron: "0 */24 * * *" # every 24 hours
+  workflow_dispatch:
 
-on: [push]
+# on: [push]
 
 # on:
 # #   # run automatically every 24 hours
