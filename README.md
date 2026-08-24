@@ -17,8 +17,19 @@
 	Rust       ★★✰✰✰ 3年 项目架构能力
 ```
 
-### 项目汇总
-
-
 ### Contributions In The last year
  ![github contribution grid snake animation](https://raw.githubusercontent.com/freewu/freewu/output/github-contribution-grid-snake.svg) 
+
+### 项目汇总
+<table border="0">
+	<tbody>
+		<tr>
+			<td><img src="images/api-manager.png" alt="api-manager" /></td>
+			<td><img src="images/api-manager.png" alt="cache-manager" /></td>
+		</tr>
+		<tr>
+			<td><a href="https://freewu.github.io/api-manager/">api-manager</a></td>
+			<td><a href="https://freewu.github.io/cache-manager/">cache-manager</a></td>
+		</tr>
+	</tbody>
+</table>
