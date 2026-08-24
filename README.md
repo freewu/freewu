@@ -25,7 +25,7 @@
 	<tbody>
 		<tr>
 			<td><img src="images/api-manager.png" alt="api-manager" /></td>
-			<td><img src="images/api-manager.png" alt="cache-manager" /></td>
+			<td><img src="images/cache-manager.png" alt="cache-manager" /></td>
 		</tr>
 		<tr>
 			<td><a href="https://freewu.github.io/api-manager/">api-manager</a></td>
