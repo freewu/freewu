@@ -31,5 +31,9 @@
 			<td><a href="https://freewu.github.io/api-manager/">api-manager</a></td>
 			<td><a href="https://freewu.github.io/cache-manager/">cache-manager</a></td>
 		</tr>
+		<tr>
+			<td>使用 Tuari2 + React + Vite 开发的 HTTP / GraphQL / Websocket / Socket.IO 等类型接口文档 / 测试 / Mock 跨平台应用</td>
+			<td>使用 Tuari2 + Vue3 + Vite 开发的 Redis / Memcache 跨平台客户端应用a></td>
+		</tr>
 	</tbody>
 </table>
