@@ -33,7 +33,19 @@
 		</tr>
 		<tr>
 			<td>使用 Tuari2 + React + Vite 开发的 HTTP / GraphQL / Websocket / Socket.IO 等类型接口文档 / 测试 / Mock 跨平台应用</td>
-			<td>使用 Tuari2 + Vue3 + Vite 开发的 Redis / Memcache 跨平台客户端应用a></td>
+			<td>使用 Tuari2 + Vue3 + Vite 开发的 Redis / Memcache 跨平台客户端应用</td>
+		</tr>
+		<tr>
+			<td><img src="images/magic-tools.png" alt="magic-tools" /></td>
+			<td><img src="images/book-manager.png" alt="book-manager" /></td>
+		</tr>
+		<tr>
+			<td><a href="https://freewu.github.io/magic-tools/">magic-tools</a></td>
+			<td><a href="https://freewu.github.io/book-manager/">book-manager</a></td>
+		</tr>
+		<tr>
+			<td>使用 Tuari2 + AntDesign 开发的工具集 跨平台应用</td>
+			<td>使用 Wails v2 + React + Vite 开发的本地电子书跨平台客户端应用</td>
 		</tr>
 	</tbody>
 </table>
