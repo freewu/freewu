@@ -50,6 +50,10 @@
 			<td>使用 Wails v2 + React + Vite 开发的本地电子书管理跨平台应用</td>
 		</tr>
 		<tr>
+			<td><img src="images/db-manager.png" alt="db-manager" /></td>
+			<td>-</td>
+		</tr>
+		<tr>
 			<td><a href="https://freewu.github.io/db-manager/">db-manager</a></td>
 			<td>-</td>
 		</tr>
