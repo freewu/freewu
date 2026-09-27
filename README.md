@@ -47,7 +47,15 @@
 		</tr>
 		<tr>
 			<td>使用 Tuari2 + AntDesign 开发的工具集 跨平台应用</td>
-			<td>使用 Wails v2 + React + Vite 开发的本地电子书跨平台客户端应用</td>
+			<td>使用 Wails v2 + React + Vite 开发的本地电子书管理跨平台应用</td>
+		</tr>
+		<tr>
+			<td><a href="https://freewu.github.io/db-manager/">db-manager</a></td>
+			<td>-</td>
+		</tr>
+		<tr>
+			<td>使用 Wails v2 + React + Vite 开发的RDB客户端书跨平台应用</td>
+			<td>-</td>
 		</tr>
 	</tbody>
 </table>
