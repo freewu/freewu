@@ -22,12 +22,12 @@
 ### Contributions In The last year
  ![github contribution grid snake animation](https://raw.githubusercontent.com/freewu/freewu/output/github-contribution-grid-snake.svg) 
 
-### 项目汇总
+### Projects
 <table border="0">
 	<tbody>
 		<tr>
-			<td><img src="images/api-manager.png" alt="api-manager" /></td>
-			<td><img src="images/cache-manager.png" alt="cache-manager" /></td>
+			<td><img src="images/api-manager.png" title="api-manager" /></td>
+			<td><img src="images/cache-manager.png" title="cache-manager" /></td>
 		</tr>
 		<tr>
 			<td><a href="https://freewu.github.io/api-manager/">api-manager</a></td>
@@ -38,8 +38,8 @@
 			<td>使用 Tuari2 + Vue3 + Vite 开发的 Redis / Memcache 跨平台客户端应用</td>
 		</tr>
 		<tr>
-			<td><img src="images/magic-tools.png" alt="magic-tools" /></td>
-			<td><img src="images/book-manager.png" alt="book-manager" /></td>
+			<td><img src="images/magic-tools.png" title="magic-tools" /></td>
+			<td><img src="images/book-manager.png" title="book-manager" /></td>
 		</tr>
 		<tr>
 			<td><a href="https://freewu.github.io/magic-tools/">magic-tools</a></td>
@@ -50,7 +50,7 @@
 			<td>使用 Wails v2 + React + Vite 开发的本地电子书管理跨平台应用</td>
 		</tr>
 		<tr>
-			<td><img src="images/db-manager.png" alt="db-manager" /></td>
+			<td><img src="images/db-manager.png" title="db-manager" /></td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -62,4 +62,20 @@
 			<td>-</td>
 		</tr>
 	</tbody>
+</table>
+
+### Books
+<table>
+  <tbody>
+    <tr>
+			<td><img src="images/book/chrome-extension-cookbook-v3.png" title="Chrome Extension Cookbook V3" /></td>
+			<td><img src="images/book/vscode-extension-cookbook.png" title="Visual Studio Code Extension Cookbook" /></td>
+			<td><img src="images/book/php-extension-cookbook.png" title="PHP8 Extension Cookbook" /></td>
+		</tr>
+		<tr>
+			<td><a href="https://freewu.github.io/chrome-extension-cookbook-v3/">Chrome Extension Cookbook V3</a></td>
+			<td><a href="https://freewu.github.io/vscode-extension-cookbook/">VSCode Extension Cookbook</a></td>
+			<td><a href="https://freewu.github.io/php-extension-cookbook/">PHP8 Extension Cookbook</a></td>
+		</tr>
+  </tbody>
 </table>
