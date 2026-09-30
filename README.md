@@ -68,14 +68,14 @@
 <table>
   <tbody>
     <tr>
-			<td><img src="images/book/chrome-extension-cookbook-v3.png" title="Chrome Extension Cookbook V3" /></td>
-			<td><img src="images/book/vscode-extension-cookbook.png" title="Visual Studio Code Extension Cookbook" /></td>
-			<td><img src="images/book/php-extension-cookbook.png" title="PHP8 Extension Cookbook" /></td>
+			<td width="33%"><img src="images/book/chrome-extension-cookbook-v3.png" width="90%" title="Chrome Extension Cookbook V3" /></td>
+			<td width="33%"><img src="images/book/vscode-extension-cookbook.png" width="90%" title="Visual Studio Code Extension Cookbook" /></td>
+			<td width="33%"><img src="images/book/php-extension-cookbook.png" width="90%" title="PHP8 Extension Cookbook" /></td>
 		</tr>
 		<tr>
-			<td><a href="https://freewu.github.io/chrome-extension-cookbook-v3/">Chrome Extension Cookbook V3</a></td>
-			<td><a href="https://freewu.github.io/vscode-extension-cookbook/">VSCode Extension Cookbook</a></td>
-			<td><a href="https://freewu.github.io/php-extension-cookbook/">PHP8 Extension Cookbook</a></td>
+			<td width="33%"><a href="https://freewu.github.io/chrome-extension-cookbook-v3/">Chrome Extension Cookbook V3</a></td>
+			<td width="33%"><a href="https://freewu.github.io/vscode-extension-cookbook/">VSCode Extension Cookbook</a></td>
+			<td width="33%"><a href="https://freewu.github.io/php-extension-cookbook/">PHP8 Extension Cookbook</a></td>
 		</tr>
   </tbody>
 </table>
