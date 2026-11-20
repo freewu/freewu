@@ -79,3 +79,33 @@
 		</tr>
   </tbody>
 </table>
+
+### Apps
+<table>
+  <tbody>
+    <tr>
+			<td width="48%"><img src="images/app/daily-poetry.png" width="90%" title="daily-poetry" /></td>
+			<td width="48%"><img src="images/app/engineering-assistant.png" width="90%" title="engineering-assistant" /></td>
+		</tr>
+		<tr>
+			<td width="48%"><a href="https://freewu.github.io/daily-poetry/">daily-poetry</a></td>
+			<td width="48%"><a href="https://freewu.github.io/engineering-assistant/">engineering-assistant</a></td>
+		</tr>
+		<tr>
+			<td width="48%">使用 React Native 开发的每日诗词 App</td>
+			<td width="48%">使用 Flutter 开发的工程人员计算工具集</td>
+		</tr>
+		<tr>
+			<td width="48%"><img src="images/app/free-clac.png" width="90%" title="free-clac" /></td>
+			<td width="48%"><img src="images/app/magic-tools.jpg" width="90%" title="magic-tools" /></td>
+		</tr>
+		<tr>
+			<td width="48%"><a href="https://freewu.github.io/free-clac/">free-clac</a></td>
+			<td width="48%"><a href="https://tools.bluefrog.vip">magic-tools</a></td>
+		</tr>
+		<tr>
+			<td width="48%">使用 Flutter 开发的高级科学计算器</td>
+			<td width="48%">使用 Tauri2 + React + TypeScript 开发的工具集桌面应用，已集成 161 款工具</td>
+		</tr>
+  </tbody>
+</table>
